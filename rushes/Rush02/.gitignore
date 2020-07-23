@@ -1,0 +1,6 @@
+.DS_Store
+ex00/srcs/*.o
+ex00/rush-02
+*.swp
+*swo
+a.out

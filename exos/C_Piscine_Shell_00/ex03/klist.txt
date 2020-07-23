@@ -1,0 +1,5 @@
+Credentials cache: API:AC77C914-C502-431E-A9AD-310A2C285F5E
+        Principal: tmartine@42.FR
+
+  Issued                Expires               Principal
+Jun 30 10:19:48 2020  Jul  7 10:19:43 2020  krbtgt/42.FR@42.FR
